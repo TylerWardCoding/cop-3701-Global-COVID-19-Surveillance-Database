@@ -14,5 +14,7 @@ Build a clean and easy-to-access data model which can be used to inform analysis
 
 # User Groups
 Public Health Analyst- Make conclusions on the world's health levels based on the data
+
 Researcher- Perform trend analysis across countries
+
 Administrator- Manages the data structure and ensures it is accurately updated
