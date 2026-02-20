@@ -4,6 +4,9 @@ This data was directly sourced from Kaggle under the "COVID-19 Dataset" updated 
 # Application Domain
 This project primarily focuses on the domain of public health. This domain is used for the tracking of COVID-19 cases across every country, including their mortality rate, total number infected and diseased, and the recovery rate of each country. The final result is a system desgined to supported properly structured and neat storage, as well as analysis of trends over time and across regions. This domain is relevant to public health specialists, researchers, and politicians determining how severe the pandemic is. 
 
+# Proposed Database Application
+The application I propose to work with is a Global Health Monitoring Database System. The system will structure the unorganized data into relational schema which is made up of entities to better store the public health data. The system will take in additional data on each of the included countries, including the GDP and the total population. Vaccination data will also be included to support additional analysis on COVID's effect on various countries and how they have responded. There are no potential complications in implementation currently, showing that the proposed database application is simple and easy to use for future data and analysis. 
+
 # High Level Goals
 ## 1. Structured Data Storage
 Store data in a simple and efficent manner that helps ensure data integrity and allows researchers to access the needed data quickly.
