@@ -1,0 +1,360 @@
+CON_ID,CEOworld_Healthcare_Index,GDP,Vaccine_Policy
+1,,18080.0,Recommended
+1,,18080.0,Healthcare Priority
+1,,18080.0,Mandatory
+2,48.1,32411.0,Recommended
+2,48.1,32411.0,Healthcare Priority
+2,48.1,32411.0,Age-Based Priority
+3,54.5,284984.0,Recommended
+4,,4715.0,Age-Based Priority
+4,,4715.0,Mandatory
+5,,109855.0,Voluntary
+5,,109855.0,Mandatory
+5,,109855.0,Healthcare Priority
+6,,2456.0,Mandatory
+7,67.8,667922.0,Recommended
+7,67.8,667922.0,Healthcare Priority
+7,67.8,667922.0,Age-Based Priority
+8,59.5,29082.0,Age-Based Priority
+8,59.5,29082.0,Voluntary
+9,72.0,1948227.0,Voluntary
+9,72.0,1948227.0,Age-Based Priority
+10,78.9,604198.0,Voluntary
+11,49.0,80024.0,Voluntary
+11,49.0,80024.0,Recommended
+12,,16841.0,Age-Based Priority
+12,,16841.0,Recommended
+12,,16841.0,Mandatory
+13,,49194.0,Age-Based Priority
+13,,49194.0,Healthcare Priority
+14,42.0,519288.0,Mandatory
+14,42.0,519288.0,Healthcare Priority
+14,42.0,519288.0,Age-Based Priority
+15,,7944.0,Mandatory
+15,,7944.0,Healthcare Priority
+15,,7944.0,Recommended
+16,49.6,90556.0,Healthcare Priority
+17,76.4,761174.0,Voluntary
+17,76.4,761174.0,Mandatory
+17,76.4,761174.0,Age-Based Priority
+18,,3442.0,Recommended
+18,,3442.0,Mandatory
+18,,3442.0,Healthcare Priority
+19,,27453.0,Age-Based Priority
+19,,27453.0,Recommended
+20,,3771.0,Age-Based Priority
+20,,3771.0,Recommended
+20,,3771.0,Mandatory
+21,,57086.0,Recommended
+22,54.6,36239.0,Healthcare Priority
+23,,20708.0,Age-Based Priority
+23,,20708.0,Voluntary
+23,,20708.0,Mandatory
+24,59.3,2292690.0,Voluntary
+25,,16457.0,Healthcare Priority
+25,,16457.0,Age-Based Priority
+25,,16457.0,Voluntary
+26,58.3,142203.0,Mandatory
+26,58.3,142203.0,Age-Based Priority
+26,58.3,142203.0,Voluntary
+27,,30705.0,Recommended
+28,,65171.0,Recommended
+29,,9212.0,Healthcare Priority
+29,,9212.0,Age-Based Priority
+30,,51506.0,Mandatory
+31,51.6,67517.0,Age-Based Priority
+32,,2420837.0,Voluntary
+32,,2420837.0,Age-Based Priority
+32,,2420837.0,Mandatory
+33,68.6,3138.0,Voluntary
+33,68.6,3138.0,Age-Based Priority
+33,68.6,3138.0,Healthcare Priority
+34,,3708.0,Mandatory
+34,,3708.0,Recommended
+35,,23556.0,Healthcare Priority
+35,,23556.0,Voluntary
+36,63.6,363299.0,Recommended
+37,69.2,20650754.0,Recommended
+38,68.9,462251.0,Voluntary
+38,68.9,462251.0,Healthcare Priority
+39,,1770.0,Age-Based Priority
+39,,1770.0,Recommended
+40,,16952.0,Healthcare Priority
+40,,16952.0,Age-Based Priority
+41,,88126.0,Healthcare Priority
+41,,88126.0,Voluntary
+42,64.8,109135.0,Age-Based Priority
+42,64.8,109135.0,Recommended
+43,,111446.0,Healthcare Priority
+43,,111446.0,Voluntary
+44,65.1,113132.0,Age-Based Priority
+45,,,Voluntary
+46,56.7,43158.0,Age-Based Priority
+46,56.7,43158.0,Recommended
+46,56.7,43158.0,Mandatory
+47,76.0,417134.0,Recommended
+47,76.0,417134.0,Healthcare Priority
+47,76.0,417134.0,Mandatory
+48,77.2,500051.0,Healthcare Priority
+48,77.2,500051.0,Age-Based Priority
+49,,5003.0,Age-Based Priority
+49,,5003.0,Healthcare Priority
+49,,5003.0,Mandatory
+50,,791.0,Voluntary
+50,,791.0,Recommended
+51,58.4,138340.0,Voluntary
+51,58.4,138340.0,Recommended
+51,58.4,138340.0,Healthcare Priority
+52,77.7,134711.0,Mandatory
+53,47.9,399508.0,Voluntary
+53,47.9,399508.0,Recommended
+54,,37981.0,Voluntary
+54,,37981.0,Age-Based Priority
+54,,37981.0,Recommended
+55,,14103.0,Age-Based Priority
+56,,,Age-Based Priority
+56,,,Voluntary
+57,75.2,51036.0,Recommended
+57,75.2,51036.0,Healthcare Priority
+57,75.2,51036.0,Mandatory
+58,,5495.0,Healthcare Priority
+59,,125744.0,Age-Based Priority
+59,,125744.0,Voluntary
+59,,125744.0,Healthcare Priority
+60,,6696.0,Healthcare Priority
+60,,6696.0,Age-Based Priority
+61,77.6,335534.0,Mandatory
+61,77.6,335534.0,Age-Based Priority
+62,77.0,3558562.0,Recommended
+62,77.0,3558562.0,Healthcare Priority
+62,77.0,3558562.0,Voluntary
+63,,22726.0,Mandatory
+64,,2672.0,Voluntary
+64,,2672.0,Age-Based Priority
+64,,2672.0,Mandatory
+65,56.3,40177.0,Age-Based Priority
+66,72.4,5328184.0,Age-Based Priority
+67,57.0,113494.0,Recommended
+67,57.0,113494.0,Voluntary
+68,58.9,304838.0,Voluntary
+69,,,Healthcare Priority
+69,,,Age-Based Priority
+70,,1524.0,Age-Based Priority
+70,,1524.0,Voluntary
+71,67.2,129466.0,Mandatory
+72,,30922.0,Mandatory
+73,,2764.0,Healthcare Priority
+74,,27486.0,Mandatory
+74,,27486.0,Age-Based Priority
+75,,31097.0,Recommended
+75,,31097.0,Voluntary
+76,,30461.0,Mandatory
+76,,30461.0,Voluntary
+76,,30461.0,Recommended
+77,,40821.0,Voluntary
+78,54.2,269916.0,Mandatory
+79,69.1,43404.0,Healthcare Priority
+79,69.1,43404.0,Voluntary
+80,65.5,4515629.0,Recommended
+80,65.5,4515629.0,Healthcare Priority
+81,61.2,1550236.0,Recommended
+82,52.8,375644.0,Age-Based Priority
+82,52.8,375644.0,Voluntary
+82,52.8,375644.0,Recommended
+82,52.8,375644.0,Healthcare Priority
+83,46.5,273912.0,Age-Based Priority
+83,46.5,273912.0,Healthcare Priority
+83,46.5,273912.0,Voluntary
+84,51.2,750112.0,Mandatory
+84,51.2,750112.0,Healthcare Priority
+84,51.2,750112.0,Voluntary
+85,73.4,666407.0,Voluntary
+86,64.9,2701544.0,Age-Based Priority
+86,64.9,2701544.0,Mandatory
+87,,24132.0,Voluntary
+88,80.1,4463634.0,Voluntary
+88,80.1,4463634.0,Recommended
+89,65.6,59288.0,Recommended
+89,65.6,59288.0,Voluntary
+89,65.6,59288.0,Age-Based Priority
+89,65.6,59288.0,Mandatory
+90,60.7,319770.0,Healthcare Priority
+91,62.2,140871.0,Mandatory
+92,,14097.0,Mandatory
+93,58.6,162895.0,Voluntary
+94,,21563.0,Voluntary
+94,,21563.0,Recommended
+94,,21563.0,Mandatory
+95,,17781.0,Age-Based Priority
+96,63.6,52248.0,Mandatory
+97,63.7,28280.0,Voluntary
+98,,2474.0,Voluntary
+99,,5594.0,Recommended
+100,,49164.0,Age-Based Priority
+100,,49164.0,Healthcare Priority
+100,,49164.0,Voluntary
+101,,10116.0,Healthcare Priority
+101,,10116.0,Age-Based Priority
+101,,10116.0,Mandatory
+102,75.4,104651.0,Age-Based Priority
+102,75.4,104651.0,Voluntary
+102,75.4,104651.0,Recommended
+102,75.4,104651.0,Healthcare Priority
+103,74.2,107758.0,Recommended
+104,,21091.0,Voluntary
+104,,21091.0,Healthcare Priority
+105,,17855.0,Mandatory
+105,,17855.0,Age-Based Priority
+105,,17855.0,Healthcare Priority
+106,70.7,505364.0,Age-Based Priority
+106,70.7,505364.0,Voluntary
+107,,8221.0,Healthcare Priority
+107,,8221.0,Mandatory
+108,,28478.0,Age-Based Priority
+109,53.3,30437.0,Recommended
+110,,12854.0,Voluntary
+110,,12854.0,Age-Based Priority
+111,,16756.0,Recommended
+111,,16756.0,Age-Based Priority
+111,,16756.0,Voluntary
+112,72.3,2030999.0,Mandatory
+112,72.3,2030999.0,Age-Based Priority
+112,72.3,2030999.0,Recommended
+113,52.2,21024.0,Mandatory
+114,,,Healthcare Priority
+114,,,Age-Based Priority
+114,,,Voluntary
+115,,26520.0,Mandatory
+115,,26520.0,Recommended
+115,,26520.0,Healthcare Priority
+116,47.4,10229.0,Healthcare Priority
+116,47.4,10229.0,Recommended
+117,46.8,196121.0,Recommended
+117,46.8,196121.0,Age-Based Priority
+118,,26512.0,Recommended
+118,,26512.0,Age-Based Priority
+119,,16100.0,Healthcare Priority
+119,,16100.0,Voluntary
+119,,16100.0,Age-Based Priority
+120,,26110.0,Voluntary
+120,,26110.0,Age-Based Priority
+121,48.3,334341.0,Recommended
+121,48.3,334341.0,Mandatory
+122,55.4,20751.0,Mandatory
+122,55.4,20751.0,Voluntary
+122,55.4,20751.0,Healthcare Priority
+123,75.8,547693.0,Mandatory
+123,75.8,547693.0,Healthcare Priority
+124,63.5,108913.0,Healthcare Priority
+124,63.5,108913.0,Mandatory
+124,63.5,108913.0,Age-Based Priority
+125,61.2,95905.0,Recommended
+126,,33463.0,Healthcare Priority
+127,,51669.0,Healthcare Priority
+128,56.9,326608.0,Recommended
+128,56.9,326608.0,Mandatory
+128,56.9,326608.0,Healthcare Priority
+129,66.8,533922.0,Healthcare Priority
+129,66.8,533922.0,Age-Based Priority
+130,57.9,1109962.0,Mandatory
+131,72.0,364527.0,Age-Based Priority
+131,72.0,364527.0,Mandatory
+132,73.6,239142.0,Voluntary
+132,73.6,239142.0,Healthcare Priority
+133,56.5,444807.0,Voluntary
+134,61.6,2509421.0,Mandatory
+134,61.6,2509421.0,Healthcare Priority
+134,61.6,2509421.0,Recommended
+135,,15472.0,Voluntary
+135,,15472.0,Mandatory
+135,,15472.0,Recommended
+136,,1190.0,Mandatory
+136,,1190.0,Recommended
+136,,1190.0,Voluntary
+137,,2770.0,Healthcare Priority
+138,,1299.0,Healthcare Priority
+139,,2393.0,Age-Based Priority
+139,,2393.0,Mandatory
+139,,2393.0,Healthcare Priority
+140,,1125.0,Voluntary
+140,,1125.0,Age-Based Priority
+140,,1125.0,Recommended
+141,62.2,1316250.0,Healthcare Priority
+141,62.2,1316250.0,Recommended
+142,,39986.0,Mandatory
+142,,39986.0,Recommended
+143,52.1,112108.0,Recommended
+143,52.1,112108.0,Age-Based Priority
+143,52.1,112108.0,Voluntary
+144,,2249.0,Recommended
+144,,2249.0,Age-Based Priority
+144,,2249.0,Mandatory
+145,,9302.0,Voluntary
+145,,9302.0,Mandatory
+146,,606225.0,Healthcare Priority
+146,,606225.0,Recommended
+147,58.2,167730.0,Recommended
+148,66.2,85738.0,Age-Based Priority
+148,66.2,85738.0,Voluntary
+149,,13912.0,Recommended
+149,,13912.0,Age-Based Priority
+150,64.0,443643.0,Recommended
+151,82.9,1936617.0,Mandatory
+151,82.9,1936617.0,Voluntary
+152,,6033.0,Voluntary
+152,,6033.0,Age-Based Priority
+153,77.2,2041830.0,Recommended
+153,77.2,2041830.0,Healthcare Priority
+154,70.7,98964.0,Voluntary
+154,70.7,98964.0,Recommended
+154,70.7,98964.0,Mandatory
+155,,39474.0,Mandatory
+156,,4870.0,Recommended
+156,,4870.0,Healthcare Priority
+157,68.3,711503.0,Healthcare Priority
+158,71.2,1074588.0,Age-Based Priority
+158,71.2,1074588.0,Healthcare Priority
+159,35.4,,Recommended
+160,87.1,971448.0,Mandatory
+160,87.1,971448.0,Recommended
+161,,18941.0,Age-Based Priority
+162,,95349.0,Mandatory
+163,77.5,561509.0,Healthcare Priority
+163,77.5,561509.0,Mandatory
+163,77.5,561509.0,Recommended
+164,,2208.0,Recommended
+164,,2208.0,Mandatory
+165,,12176.0,Mandatory
+166,53.6,26758.0,Age-Based Priority
+166,53.6,26758.0,Healthcare Priority
+167,56.6,60434.0,Healthcare Priority
+168,71.3,1576110.0,Age-Based Priority
+169,67.0,31821293.0,Healthcare Priority
+169,67.0,31821293.0,Recommended
+170,,72456.0,Age-Based Priority
+170,,72456.0,Healthcare Priority
+170,,72456.0,Recommended
+171,55.8,224259.0,Mandatory
+171,55.8,224259.0,Recommended
+171,55.8,224259.0,Voluntary
+172,70.8,601163.0,Voluntary
+173,72.7,4225639.0,Voluntary
+173,72.7,4225639.0,Age-Based Priority
+174,68.5,90640.0,Age-Based Priority
+174,68.5,90640.0,Mandatory
+174,68.5,90640.0,Healthcare Priority
+175,,159199.0,Age-Based Priority
+175,,159199.0,Voluntary
+176,39.9,79916.0,Voluntary
+177,62.2,511059.0,Healthcare Priority
+177,62.2,511059.0,Age-Based Priority
+178,,13711.0,Voluntary
+179,,,Age-Based Priority
+179,,,Mandatory
+179,,,Recommended
+180,,17240.0,Mandatory
+181,,33945.0,Recommended
+181,,33945.0,Voluntary
+182,,55434.0,Voluntary
+182,,55434.0,Age-Based Priority
+182,,55434.0,Healthcare Priority
