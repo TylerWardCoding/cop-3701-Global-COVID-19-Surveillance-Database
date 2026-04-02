@@ -4,9 +4,9 @@ import oracledb
 LIB_DIR = r"C:\oraclexe\instantclient_23_0"
 
 # Your Oracle Credentials
-DB_USER = "TWARD7760_SCHEMA_0V37J"
-DB_PASS = "8BSZT9UAsMFYCUUZFM6350VL1ZHN$G"
-DB_DSN = "db.freesql.com:1521/23ai_34ui2"
+DB_USER = "USERNAME"
+DB_PASS = "PASSWORD"
+DB_DSN = "DSN"
 
 # Initialize Oracle Client
 oracledb.init_oracle_client(lib_dir=LIB_DIR)
