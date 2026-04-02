@@ -21,3 +21,8 @@ Public Health Analyst- Make conclusions on the world's health levels based on th
 Researcher- Perform trend analysis across countries
 
 Administrator- Manages the data structure and ensures it is accurately updated
+
+
+# Final Database Design
+
+![Final Design](PtD.png)
