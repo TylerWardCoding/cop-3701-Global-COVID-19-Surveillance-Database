@@ -26,12 +26,17 @@ Administrator- Manages the data structure and ensures it is accurately updated
 
 # How to use this repository 
 Step 1: Navigate to the "Database-Creation" Folder
+
 Step 2: Download and run the "Create_db.sql" in your SQL database
+
 Step 3: Download all of the .csv files in the csv-files folder
+
 Step 4: Download and run the dataload.py, inserting your username and password into the code when connecting to your database
+
 Step 5: Now that everything is made in your database, navigate to the Application folder, download the app.py code and run it in your terminal
+
 
 
 # Final Database Design
 
-![Final Design](PtD.png)
+![Final Design](ER-Diagrams/PtD.png)
