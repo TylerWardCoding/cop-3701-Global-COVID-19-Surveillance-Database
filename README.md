@@ -39,4 +39,4 @@ Step 5: Now that everything is made in your database, navigate to the Applicatio
 
 # Final Database Design
 
-![Final Design](ER-Diagrams/PtD.png)
+![Final Design](ER-Diagrams/ER-Diagrams/PtD.png)
